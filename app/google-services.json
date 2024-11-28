@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584988828858",
+    "project_id": "my-firebase-application-cd08f",
+    "storage_bucket": "my-firebase-application-cd08f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584988828858:android:75b75bdc2b65a361d38e83",
+        "android_client_info": {
+          "package_name": "com.androidlead.movietheater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppWg3OweDn1Lmz9v_ExbMKXDa42ju_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584988828858:android:efb5f14cdeb70a38d38e83",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppWg3OweDn1Lmz9v_ExbMKXDa42ju_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
